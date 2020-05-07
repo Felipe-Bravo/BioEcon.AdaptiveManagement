@@ -5,4 +5,4 @@ Project BioEcon http://bioecon.eu/  2017-2021
 This repository includes the lab handouts and the datasets to complete the assignments.
 Users have to install [R](https://cran.r-project.org/)  while [RStudio](https://cran.r-project.org/) and [Notepad++](https://notepad-plus-plus.org/) are recomended.
 
-These materials have used by the author during regular quantitative forestry courses at [University of Valladolid](http://www.uva.es), Spain (2017-2020), the BioEcon *Intensive Learning Periods* in Vietnam (2019) and Spain (2020) and at the [University of Agriculture of Krakow](https://en.urk.edu.pl/), Poland (2020).
+These materials have used by the author during regular quantitative forestry courses at [University of Valladolid](http://www.uva.es), Spain (2017-2020), the BioEcon *Intensive Learning Periods* in Vietnam (2019) and Spain (2020) and at the [University of Agriculture in Krakow](https://en.urk.edu.pl/), Poland (2020).
