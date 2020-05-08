@@ -1,4 +1,4 @@
-# Forest adaptive management exercices with R
+# Forest adaptive management exercices with R and SIMANFOR
 ### Materials (Lab handouts) from the course on *Adaptive Management: Developing innovative alternatives for bioeconomy*
 Project BioEcon http://bioecon.eu/  2017-2021
 
