@@ -18,7 +18,7 @@ These materials have used by the author during regular master quantitative fores
 - [James, G., Witten, D, Hastie, T., Tibshirani, R. 2017 An introduction to statistical learning with applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 - [James, G., Witten, D, Hastie, T., Tibshirani, R. 2021 An introduction to statistical learning with applications in R. 2nd Edition](https://www.statlearning.com/)
 - [Lovelace, R., Cheshire, J., Oldroyd, R. et al. 2016 Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
-- [Robinson, A. 2016 icebreakeR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
+- [Robinson, A. 2016 icebreakeR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf) and its [data and other materials](https://researchers.ms.unimelb.edu.au/~apro@unimelb/r-users.html)
 
 ### Tools
 
