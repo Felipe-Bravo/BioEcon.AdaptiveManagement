@@ -27,4 +27,4 @@ These materials have used by the author during regular master quantitative fores
 - [R Programming Cheat Sheet (just the basics)](http://datasciencefree.com/basicR.pdf)
 - [R Programming Cheat Sheet (advanced)](http://datasciencefree.com/advancedR.pdf)
 - [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)
-- [Regresión lineal en R](https://www.usabart.nl/eval/cs-regression.pdf)
+- [Lineal regresión in R](https://www.usabart.nl/eval/cs-regression.pdf)
