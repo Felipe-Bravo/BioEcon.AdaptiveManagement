@@ -6,7 +6,7 @@ ETS de Ingenierías Agrarias (Universidad de Valladolid-Campus de Palencia)
 This repository includes the lab handouts and the datasets to complete the assignments.
 Users have to install [R](https://cran.r-project.org/)  while [RStudio](https://cran.r-project.org/) and [Notepad++](https://notepad-plus-plus.org/) are recomended.
 
-These materials have used by the author during regular master quantitative forestry courses at [University of Valladolid](http://www.uva.es), Spain (2017-2021), the BioEcon *Intensive Learning Periods* in [Vietnam National University of Forestry](http://en.vnuf.edu.vn), Vietnam (2019) and [University of Valladolid](http://www.uva.es), Spain (2020) and at the [University of Agriculture in Krakow](https://en.urk.edu.pl/), Poland (2020)
+These materials have used by the author during regular master quantitative forestry courses at [University of Valladolid](http://www.uva.es), Spain (2017-2021), the BioEcon *Intensive Learning Periods* in [Vietnam National University of Forestry](http://en.vnuf.edu.vn), Vietnam (2019) and [University of Valladolid](http://www.uva.es), Spain (2020-2023) and at the [University of Agriculture in Krakow](https://en.urk.edu.pl/), Poland (2020)
 
 
 
