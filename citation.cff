@@ -9,5 +9,6 @@ authors:
     affiliation: "Universidad de Valladolid"
 license: MIT
 repository-code: "https://github.com/Felipe-Bravo/BioEcon.AdaptiveManagement"
+doi: "https://doi.org/10.5281/zenodo.24459645"
 version: 1.0.0
 date-released: 2020-04-27
