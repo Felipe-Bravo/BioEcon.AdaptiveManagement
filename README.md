@@ -28,3 +28,7 @@ These materials have used by the author during regular master quantitative fores
 - [R Programming Cheat Sheet (advanced)](http://datasciencefree.com/advancedR.pdf)
 - [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)
 - [Lineal regresión in R](https://www.usabart.nl/eval/cs-regression.pdf)
+
+
+### cite this resource as
+Felipe Bravo. (2020). Forest adaptive management exercices with R and SIMANFOR. Materials (Lab handouts) from the course on Adaptive Management: Developing innovative alternatives for bioeconomy (Version Bioeconomy) [Computer software]. Zenodo [https://doi.org/10.5281/zenodo.24459645](https://doi.org/10.5281/zenodo.24459645)
