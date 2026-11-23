@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Forest adaptive management exercices with R and SIMANFOR. Materials (Lab handouts) from the course on Adaptive Management: Developing innovative alternatives for bioeconomy"
+message: "If you use these materials, please cite them as below."
+type: software
+authors:
+  - family-names: Bravo
+    given-names: Felipe
+    orcid: "https://orcid.org/0000-0001-7348-6695"
+    affiliation: "Universidad de Valladolid"
+license: MIT
+repository-code: "https://github.com/Felipe-Bravo/BioEcon.AdaptiveManagement"
+version: 1.0.0
+date-released: 2020-04-27
